@@ -17,3 +17,10 @@ This project is used to practice Git and GitHub collaboration workflows.
 ## Continuous Integration
 
 Every push and pull request is checked automatically by GitHub Actions.
+## Features
+
+- GitHub collaboration
+- Pull Requests
+- Issues
+- GitHub Actions
+- Code review workflow
