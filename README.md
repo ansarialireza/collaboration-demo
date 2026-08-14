@@ -13,3 +13,4 @@ This project is used to practice Git and GitHub collaboration workflows.
 - Pull Requests
 - Issues
 - GitHub Actions
+- Code review workflow
